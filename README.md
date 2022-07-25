@@ -6,7 +6,7 @@
 -----------------------
 ### Web Page 
 -----------------------
-https://github.com/Vinay199808/FlightPricePrediction/blob/main/Extra/Website%20.png
+(https://github.com/Vinay199808/FlightPricePrediction/blob/main/Extra/Website%20.png)
 
 ### Result 
 -----------------------
